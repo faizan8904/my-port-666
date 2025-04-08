@@ -14,8 +14,8 @@ function AnimationWaves() {
             x2="100%"
             y2="100%"
           >
-            <stop offset="0%" stopColor="#14b8a6" />
-            <stop offset="100%" stopColor="#592af3" />
+            <stop offset="0%" stopColor="#06b6d4" /> {/* cyan-500 */}
+            <stop offset="100%" stopColor="#7c3aed" /> {/* purple-600 */}
           </linearGradient>
         </defs>
         <path

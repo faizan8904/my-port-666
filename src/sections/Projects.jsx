@@ -14,17 +14,18 @@ function Projects() {
         "Scalable Dashboard App with CRUD operations manages all the bookings, users, guests and services.",
     },
     {
-      image: ecommerce,
-      name: "E-Commerce App",
-      brief:
-        "Scalable Dashboard App with CRUD operations manages all the bookings, users, guests and services.",
-    },
-    {
       image: food,
       name: "Food App",
       brief:
         "Scalable Dashboard App with CRUD operations manages all the bookings, users, guests and services.",
     },
+    {
+      image: ecommerce,
+      name: "E-Commerce App",
+      brief:
+        "Scalable Dashboard App with CRUD operations manages all the bookings, users, guests and services.",
+    },
+    
     {
       image: travel,
       name: "Travel App",
@@ -63,7 +64,7 @@ function Projects() {
                   <div className="flex flex-col text-center my-5 py-3 justify-center gap-3 border-2 border-white/10 hover:border-blue-500/30 hover:shadow-[9_2px_8px_rgba(59,130,22.46,0.2)]  cursor-pointer rounded-xl ">
                     <p className="text-gray-200">View Project</p>
                     <a
-                      href="https://github.com/ISHAQ98"
+                      href="#"
                       className="flex justify-between items-center font-bold text-blue-400 transition-colors hover:text-white"
                     >
                       {" "}

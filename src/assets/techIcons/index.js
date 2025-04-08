@@ -1,0 +1,13 @@
+export { default as aws } from './aws/aws.svg';
+export { default as css } from './css/css.svg';
+export { default as expressjs } from './expressjs/expressjs.svg';
+export { default as git } from './git/git.svg';
+export { default as github } from './github/github.svg';
+export { default as gmail } from './gmail/gmail.svg';
+export { default as graphql } from './graphql/graphql.svg';
+export { default as html } from './html/html.svg';
+export { default as nestjs } from './nestjs/nestjs.svg';
+export { default as nextjs } from './nextjs/nextjs.svg';
+export { default as nodejs } from './nodejs/nodejs.svg';
+export { default as react } from './react/react.svg';
+export { default as tailwindcss } from './tailwindcss/tailwindcss.svg';

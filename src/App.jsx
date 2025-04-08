@@ -22,7 +22,8 @@ function App() {
       <MobileMenu isMenuOpen={isMenuOpen} setIsMenuOpen={setIsMenuOpen} />
       <RevealOnScroll>
         <Home />
-        <AnimationWaves />
+        {/* <AnimationWaves /> */}
+        <div className="mt-2 w-full h-0.5 bg-purple-900"></div>
       </RevealOnScroll>
       <About />
       <Projects />
